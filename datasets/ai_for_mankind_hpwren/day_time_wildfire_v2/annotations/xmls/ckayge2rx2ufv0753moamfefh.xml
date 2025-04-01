@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ckayge2rx2ufv0753moamfefh.jpeg</filename>
+    <path>/Users/weishungchung/Desktop/exports1/images/ckayge2rx2ufv0753moamfefh.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>479.0</xmin>
+                <ymin>61.0</ymin>
+                <xmax>541.0</xmax>
+                <ymax>189.0</ymax>
+            </bndbox>
+        </object>
+    </annotation>

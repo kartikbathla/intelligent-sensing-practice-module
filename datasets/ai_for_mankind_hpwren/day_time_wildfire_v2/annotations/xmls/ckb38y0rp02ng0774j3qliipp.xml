@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ckb38y0rp02ng0774j3qliipp.jpeg</filename>
+    <path>/Users/weishungchung/Desktop/exports1/images/ckb38y0rp02ng0774j3qliipp.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>117.0</xmin>
+                <ymin>222.0</ymin>
+                <xmax>189.0</xmax>
+                <ymax>249.0</ymax>
+            </bndbox>
+        </object>
+    </annotation>
