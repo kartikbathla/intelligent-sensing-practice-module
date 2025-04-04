@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ckau1rmleyes907210j74zove.jpeg</filename>
+    <path>/Users/weishungchung/Desktop/exports1/images/ckau1rmleyes907210j74zove.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>513.0</xmin>
+                <ymin>232.0</ymin>
+                <xmax>519.0</xmax>
+                <ymax>241.0</ymax>
+            </bndbox>
+        </object>
+    </annotation>

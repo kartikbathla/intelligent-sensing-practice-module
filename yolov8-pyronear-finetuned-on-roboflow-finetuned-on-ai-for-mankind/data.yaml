@@ -1,0 +1,5 @@
+train: ../datasets/ai_hpwren_yolo/images/train
+val: ../datasets/ai_hpwren_yolo/images/val
+
+nc: 1
+names: ['smoke']

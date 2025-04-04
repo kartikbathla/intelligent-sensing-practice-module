@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ckawdim1ti53s0712u159x6au.jpeg</filename>
+    <path>/Users/weishungchung/Desktop/exports1/images/ckawdim1ti53s0712u159x6au.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>smoke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>90.0</xmin>
+                <ymin>257.0</ymin>
+                <xmax>95.0</xmax>
+                <ymax>260.0</ymax>
+            </bndbox>
+        </object>
+    </annotation>
