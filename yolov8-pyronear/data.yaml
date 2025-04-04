@@ -1,0 +1,6 @@
+# data.yaml
+train: pyro-sdis/images/train  # Path to training images
+val: pyro-sdis/images/val      # Path to validation images
+
+nc: 1  # Number of classes
+names: ['smoke']  # Class names
