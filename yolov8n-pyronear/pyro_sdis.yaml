@@ -1,0 +1,5 @@
+train: ../datasets/pyronear/pyro_sdis_yolo/images/train
+val: ../datasets/pyronear/pyro_sdis_yolo/images/validation
+
+nc: 1  # number of classes
+names: ['smoke']

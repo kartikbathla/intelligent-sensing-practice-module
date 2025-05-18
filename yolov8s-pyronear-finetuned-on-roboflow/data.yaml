@@ -1,0 +1,8 @@
+path: ../yolov8n-obb-wildfir-smoke-roboflow/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: smoke
